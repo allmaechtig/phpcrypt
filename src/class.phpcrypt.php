@@ -1,4 +1,7 @@
 <?php
+
+namespace Doitonlinemedia;
+
 class PHPCrypt 
 {
     private $rounds;

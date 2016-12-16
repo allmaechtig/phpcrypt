@@ -1,10 +1,16 @@
 {
     "name": "doitonlinemedia/phpcrypt",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Doit Online Media",
             "email": "tim@doitonlinemedia.nl"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
 }
