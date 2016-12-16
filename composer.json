@@ -1,0 +1,10 @@
+{
+    "name": "doitonlinemedia/phpcrypt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Doit Online Media",
+            "email": "tim@doitonlinemedia.nl"
+        }
+    ]
+}
